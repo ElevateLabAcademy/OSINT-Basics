@@ -1,0 +1,2 @@
+Found creds: admin@travel-islands.com / travel@123
+FLAG{pastebin_leak}
